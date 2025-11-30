@@ -63,4 +63,6 @@ danawa_fridge_capacity.csv
 
 조금만 응용하면 이것 뿐 아니라 유사한 작업에는 다 쓸 수 있을 것이다.
 
- 
+ ---
+
+ https://github.com/heelee912/danawa_crawl/issues # 게시판
